@@ -32,7 +32,9 @@
 <div align="center">
 	
   [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link=https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)](https://impartial-cheek-af1.notion.site/6dd530ca253941988cf93b8da9843520?pvs=4)
-  [![Gmail Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:99tmfrl99@gmail.com)](mailto:99tmfrl99@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:99tmfrl99@gmail.com)](mailto:99tmfrl99@gmail.com)
+
   <br><br>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmfrl99%2Fhit-counter&title=Today/Total&edge_flat=false)](https://hits.seeyoufarm.com)                                         
 </div>
